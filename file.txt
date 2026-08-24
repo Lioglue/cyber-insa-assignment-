@@ -1,0 +1,6 @@
+this is assignment of insa summer camp , 
+///////////////to check the result/////////////////
+ctc-3586-26
+
+
+by the way the encryption method is symmetric and so it decrypt itself using the same code .
